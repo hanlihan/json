@@ -1,0 +1,10 @@
+{
+   "code":2,
+   "description":"经理",
+   "lists": {
+    "id":1,   
+    "name":"李四",
+    "salary":"3500",
+    "age":25
+}
+}
